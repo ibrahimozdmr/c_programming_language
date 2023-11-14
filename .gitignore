@@ -1,0 +1,5 @@
+# . ile başlayan dosyaları takip etme
+.*
+
+# .gitignore dosyasını takip et
+!.gitignore
